@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/gobaseline
 go 1.20
 
 require (
-	github.com/VictoriaMetrics/metrics v1.28.2
+	github.com/VictoriaMetrics/metrics v1.29.0
 	github.com/aead/serpent v0.0.0-20160714141033-fba169763ea6
 	github.com/armon/go-radix v1.0.0
 	github.com/bluele/gcache v0.0.2
