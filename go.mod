@@ -17,18 +17,18 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.6.0
 	github.com/mitchellh/copystructure v1.2.0
-	github.com/safing/jess v0.3.1
+	github.com/safing/jess v0.3.3
 	github.com/safing/portmaster-android/go v0.0.0-20230830120134-3226ceac3bec
 	github.com/seehuhn/fortuna v1.0.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	github.com/tevino/abool v1.2.0
 	github.com/tidwall/gjson v1.17.0
 	github.com/tidwall/sjson v1.2.5
-	github.com/vmihailenco/msgpack/v5 v5.4.0
+	github.com/vmihailenco/msgpack/v5 v5.4.1
 	go.etcd.io/bbolt v1.3.7
 	golang.org/x/sync v0.4.0
-	golang.org/x/sys v0.13.0
+	golang.org/x/sys v0.15.0
 )
 
 require (
@@ -43,11 +43,12 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/safing/portbase v0.16.6 // indirect
+	github.com/safing/portbase v0.18.6 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/seehuhn/sha256d v1.0.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
@@ -59,7 +60,9 @@ require (
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
+	github.com/zeebo/blake3 v0.2.3 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
+	golang.org/x/exp v0.0.0-20231214170342-aacd6d4b4611 // indirect
 	golang.org/x/net v0.16.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
