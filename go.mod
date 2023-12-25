@@ -3,12 +3,12 @@ module github.com/khulnasoft-lab/gobaseline
 go 1.21.5
 
 require (
-	github.com/VictoriaMetrics/metrics v1.29.0
+	github.com/VictoriaMetrics/metrics v1.29.1
 	github.com/aead/serpent v0.0.0-20160714141033-fba169763ea6
 	github.com/armon/go-radix v1.0.0
 	github.com/bluele/gcache v0.0.2
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dgraph-io/badger/v4 v4.2.0
+	github.com/dgraph-io/badger v1.6.2
 	github.com/fxamacker/cbor/v2 v2.5.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gofrs/uuid v4.4.0+incompatible
