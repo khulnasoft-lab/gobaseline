@@ -8,6 +8,7 @@ require (
 	github.com/armon/go-radix v1.0.0
 	github.com/bluele/gcache v0.0.2
 	github.com/davecgh/go-spew v1.1.1
+	github.com/dgraph-io/badger v1.6.2
 	github.com/dgraph-io/badger/v4 v4.2.0
 	github.com/fxamacker/cbor/v2 v2.5.0
 	github.com/ghodss/yaml v1.0.0
@@ -29,7 +30,7 @@ require (
 	go.etcd.io/bbolt v1.3.8
 	golang.org/x/exp v0.0.0-20231219180239-dc181d75b848
 	golang.org/x/sync v0.5.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/sys v0.16.0
 )
 
 require (
