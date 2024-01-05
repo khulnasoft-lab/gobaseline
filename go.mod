@@ -28,7 +28,7 @@ require (
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	go.etcd.io/bbolt v1.3.8
 	golang.org/x/exp v0.0.0-20231219180239-dc181d75b848
-	golang.org/x/sync v0.5.0
+	golang.org/x/sync v0.6.0
 	golang.org/x/sys v0.16.0
 )
 
