@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/safing/jess v0.3.3
-	github.com/safing/portmaster-android/go v0.0.0-20230830120134-3226ceac3bec
+	github.com/safing/portmaster-android/go v0.0.12
 	github.com/seehuhn/fortuna v1.0.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/stretchr/testify v1.8.4
