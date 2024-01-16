@@ -2,8 +2,8 @@ github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 h1:cTp8I5+VIo
 github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
-github.com/VictoriaMetrics/metrics v1.29.0 h1:3qC+jcvymGJaQKt6wsXIlJieVFQwD/par9J1Bxul+Mc=
-github.com/VictoriaMetrics/metrics v1.29.0/go.mod h1:r7hveu6xMdUACXvB8TYdAj8WEsKzWB0EkpJN+RDtOf8=
+github.com/VictoriaMetrics/metrics v1.31.0 h1:X6+nBvAP0UB+GjR0Ht9hhQ3pjL1AN4b8dt9zFfzTsUo=
+github.com/VictoriaMetrics/metrics v1.31.0/go.mod h1:r7hveu6xMdUACXvB8TYdAj8WEsKzWB0EkpJN+RDtOf8=
 github.com/aead/ecdh v0.2.0 h1:pYop54xVaq/CEREFEcukHRZfTdjiWvYIsZDXXrBapQQ=
 github.com/aead/ecdh v0.2.0/go.mod h1:a9HHtXuSo8J1Js1MwLQx2mBhkXMT6YwUmVVEY4tTB8U=
 github.com/aead/serpent v0.0.0-20160714141033-fba169763ea6 h1:5L8Mj9Co9sJVgW3TpYk2gxGJnDjsYuboNTcRmbtGKGs=
