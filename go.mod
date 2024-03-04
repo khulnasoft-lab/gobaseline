@@ -21,7 +21,7 @@ require (
 	github.com/safing/portmaster-android/go v0.0.0-20230830120134-3226ceac3bec
 	github.com/seehuhn/fortuna v1.0.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tevino/abool v1.2.0
 	github.com/tidwall/gjson v1.17.1
 	github.com/tidwall/sjson v1.2.5
